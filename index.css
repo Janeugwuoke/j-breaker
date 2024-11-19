@@ -1,0 +1,29 @@
+h1{border-style: double;
+    border-width: 10px 5px;
+    border-radius: 20px;
+    border-color: blue red black green;
+    background-color: aqua;
+    padding: 15px 5px 20px 15px;
+    margin: auto;
+}
+#intro{font-style: italic;
+    color: aliceblue
+    ;  
+}
+#container
+{background-color: blue;
+    font-style:italic
+
+}
+
+p {background-color: blueviolet;
+    outline-style: dashed;
+    outline-color: deeppink;
+    outline-offset: 15px;
+    border-style: solid;
+    border-color: black;
+    margin: 30px;
+    border-width: 10px;
+    padding: 50px 50px;
+
+} 
