@@ -10,7 +10,7 @@ h1{border-style: double;
     color: aliceblue
     ;  
 }
-#container
+.container p
 {background-color: blue;
     font-style:italic
 
